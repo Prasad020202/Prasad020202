@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Redux**
 
-- 📫 How to reach me **p1440666@gmail.com**
+- 📫 reach me at **p1440666@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1xdudmCZmuT9P6DKw5oH4t9W5ZHTwqaSz/view?usp=drive_link](https://drive.google.com/file/d/1xdudmCZmuT9P6DKw5oH4t9W5ZHTwqaSz/view?usp=drive_link)
 
